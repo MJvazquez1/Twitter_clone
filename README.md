@@ -4,6 +4,7 @@ Let’s make simple Twitter. Users can post tweets and see everyone’s them. To
  [LIVE REPLIT DEPLOYMENT]()
 
 # Screenshot:
+![Twitter_clone](https://user-images.githubusercontent.com/113742504/202344520-16be0978-5a25-4911-a3f9-59106bfad9c5.PNG)
 
 # Technologies Used:
 * Html
